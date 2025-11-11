@@ -26,7 +26,6 @@ The goal for this sample is to demonstrate some of the principles and patterns d
 - Working with Data in ASP.NET Core Apps
 - Testing ASP.NET Core MVC Apps
 - Development Process for Azure-Hosted ASP.NET Core Apps
-- Azure Hosting Recommendations for ASP.NET Core Web Apps
 
 ## Running the sample using Azd template
 
