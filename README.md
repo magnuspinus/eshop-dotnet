@@ -14,7 +14,7 @@ The goal for this sample is to demonstrate some of the principles and patterns d
 > #### The `main` branch is currently running ASP.NET Core 8.0.
 > #### Older versions are tagged.
 
-## Topics (eBook TOC)
+## Topics (eBook TOCn)
 
 - Introduction
 - Characteristics of Modern Web Applications
