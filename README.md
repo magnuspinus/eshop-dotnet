@@ -1,4 +1,4 @@
-# Microsoft eShopOnWeb ASP.NET Core Reference Application
+# EShopOnWeb ASP.NET Core Application
 
 > A new community supported version of eShopOnWeb can be found at https://github.com/NimblePros/eShopOnWeb
 
